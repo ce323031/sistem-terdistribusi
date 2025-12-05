@@ -1,0 +1,12 @@
+ apy gateway ------jhon
+ usere service------eru
+ payment service ---- handika
+ task service------idven
+ notification service -----misael
+ mongoddb + kafka---------garmaldy
+
+
+ ----------------------------------------------------------------
+ ================================================================
+ ----------------------------------------------------------------
+ 
